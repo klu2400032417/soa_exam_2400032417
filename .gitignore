@@ -1,0 +1,12 @@
+
+# Ignore Eclipse workspace settings
+.metadata/
+
+# Ignore Java build output
+target/
+bin/
+
+# Ignore IDE settings
+.settings/
+.classpath
+.project
